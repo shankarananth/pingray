@@ -1,7 +1,7 @@
 # pingray
 Attempt to map room using ultrasonic sensor and stepper motor
 
-Forked from Param's Project https://github.com/paramaggarwal/pingray that uses ultrasonic sensors and magnetic compass
+Forked from Param's Project https://github.com/paramaggarwal/pingray that uses ultrasonic sensors and magnetic compass. This project is a curious attempt to replicate the outcomes with a stepper motor and single ultrasonic sensor as I did not have a magnetic compass.
 
 All limitations metioned in Param's post (https://www.hackster.io/paramaggarwal/mapping-a-room-with-ultrasonic-distance-sensors-9725b7) apply. Additionally this project can only capture 180 deg. 
 
